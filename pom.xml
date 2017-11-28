@@ -4,7 +4,7 @@
   <groupId>com.ranjithcompany</groupId>
   <artifactId>ranjith-app</artifactId>
   <packaging>jar</packaging>
-  <version>4.5-SNAPSHOT</version>
+  <version>4.8-SNAPSHOT</version>
   <name>ranjith-app</name>
   <url>http://maven.apache.org</url>
  <properties>
@@ -23,7 +23,7 @@
            <snapshotRepository>
             <id>ranjith</id>
             <url>http://54.172.121.253:8081/repository/ranjith/</url>
-             <layout>default</layout>
+         
 </snapshotRepository>        
     </distributionManagement>
 </project>
