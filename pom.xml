@@ -21,8 +21,8 @@
 <distributionManagement>
         
            <snapshotRepository>
-            <id>ranjith</id>
-            <url>http://54.172.121.253:8081/repository/ranjith/</url>
+            <id>ranjiths</id>
+            <url>http://54.172.121.253:8081/repository/ranjiths/</url>
          
 </snapshotRepository>        
     </distributionManagement>
