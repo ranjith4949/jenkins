@@ -22,7 +22,7 @@
         
            <snapshotRepository>
             <id>ranjith</id>
-            <url>http://54.82.247.99:8081/repository/ranjith/</url>
+            <url>http://54.172.121.253:8081/repository/ranjith/</url>
              <layout>default</layout>
 </snapshotRepository>        
     </distributionManagement>
