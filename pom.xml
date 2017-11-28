@@ -4,7 +4,7 @@
   <groupId>com.ranjithcompany</groupId>
   <artifactId>ranjith-app</artifactId>
   <packaging>jar</packaging>
-  <version>4.8-SNAPSHOT</version>
+  <version>4.9-SNAPSHOT</version>
   <name>ranjith-app</name>
   <url>http://maven.apache.org</url>
  <properties>
