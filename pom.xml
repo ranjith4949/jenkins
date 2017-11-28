@@ -1,11 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.venkatcompany</groupId>
-  <artifactId>venkat-app</artifactId>
+  <groupId>com.ranjithcompany</groupId>
+  <artifactId>ranjith-app</artifactId>
   <packaging>jar</packaging>
   <version>4.5-SNAPSHOT</version>
-  <name>venkat-app</name>
+  <name>ranjith-app</name>
   <url>http://maven.apache.org</url>
  <properties>
   <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -21,8 +21,8 @@
 <distributionManagement>
         
            <snapshotRepository>
-            <id>venkat</id>
-            <url>http://54.172.15.169:8081/nexus/content/repositories/venkat/</url>
+            <id>ranjith</id>
+            <url>http://54.82.247.99:8081/repository/ranjith/</url>
              <layout>default</layout>
 </snapshotRepository>        
     </distributionManagement>
